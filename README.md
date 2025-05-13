@@ -43,7 +43,7 @@
 | 기간 | 내용 |
 |------|------|
 | 2018.3 ~ 2023.8 | 인제대학교 컴퓨터공학부 정보보안학과 졸업 |
-| 2022.5 ~ 2022.8 | 보안 프로토콜 취약점 연구 [논문] 한국디지털콘텐츠학회 등재(https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11124201) |
+| 2022.5 ~ 2022.8 | 보안 프로토콜 취약점 연구 [논문](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11124201) 한국디지털콘텐츠학회 등재 |
 | 2024.12 ~ 2025.1 | 행사 동행자 매칭 플랫폼 '[페스티모](https://github.com/Wookindeye/NBE2-3-3-team5)' 백엔드 개발 |
 | 2025.2 ~ 2025.3 | 뉴스기반 토론 플랫폼 '[어스톡](https://github.com/Wookindeye/WEB2_3_BlockB_BE)' 백엔드 개발 |
 | 2024.10 ~ 2025.3| 프로그래머스 백엔드 데브코스 수료 |
