@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=Hi,%20I'm%20Hyunwook!&fontSize=60&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=Welcome!&fontSize=60&animation=twinkling)
 
 ## 🛠️ Tech Stacks
 <div align="center">
